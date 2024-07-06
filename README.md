@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Saputsirk/LeetCode-Jean-Christophe/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0347-top-k-frequent-elements](https://github.com/Saputsirk/LeetCode-Jean-Christophe/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
@@ -49,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Saputsirk/LeetCode-Jean-Christophe/tree/master/0347-top-k-frequent-elements) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Saputsirk/LeetCode-Jean-Christophe/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
