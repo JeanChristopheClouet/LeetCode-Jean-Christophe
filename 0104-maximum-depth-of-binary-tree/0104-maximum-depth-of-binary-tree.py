@@ -11,31 +11,13 @@ class Solution(object):
         :rtype: int
         """
         depths = []
-
-        def traverse(Node, depth):
-            if type(Node) != TreeNode:
-                depths.append(0)
-                return 0
-            if Node.left==None and Node.right==None:
+        def traverse(node, depth):
+            if node==None:
                 depths.append(depth)
-                return depth
-            elif Node.right!=None and Node.right!=None:
-                traverse(Node.left, depth+1)
-                traverse(Node.right, depth+1)
-                return
-            elif Node.left!=None:
-                depth1 = depth+1
-                traverse(Node.left, depth1)
                 return 
-            elif Node.right!=None:
-                depth2 = depth+1
-                traverse(Node.right, depth2)
-                return
             else:
-                return
-            
-        traverse(root, 1)
-        return max(depths)
-            
-
+                traverse(node.left, depth+1)
+                traverse(node.right, depth+1)
         
+        traverse(root, 0)
+        return max(depths)
