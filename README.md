@@ -54,4 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saputsirk/LeetCode-Jean-Christophe/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Math
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/Saputsirk/LeetCode-Jean-Christophe/tree/master/0371-sum-of-two-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/Saputsirk/LeetCode-Jean-Christophe/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
