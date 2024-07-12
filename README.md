@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0057-insert-interval](https://github.com/Saputsirk/LeetCode-Jean-Christophe/tree/master/0057-insert-interval) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saputsirk/LeetCode-Jean-Christophe/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0347-top-k-frequent-elements](https://github.com/Saputsirk/LeetCode-Jean-Christophe/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
