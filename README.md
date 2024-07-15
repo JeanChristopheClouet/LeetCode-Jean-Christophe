@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Saputsirk/LeetCode-Jean-Christophe/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0133-clone-graph](https://github.com/Saputsirk/LeetCode-Jean-Christophe/tree/master/0133-clone-graph) |
 | [0347-top-k-frequent-elements](https://github.com/Saputsirk/LeetCode-Jean-Christophe/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
@@ -76,4 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Saputsirk/LeetCode-Jean-Christophe/tree/master/0133-clone-graph) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Saputsirk/LeetCode-Jean-Christophe/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Saputsirk/LeetCode-Jean-Christophe/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
