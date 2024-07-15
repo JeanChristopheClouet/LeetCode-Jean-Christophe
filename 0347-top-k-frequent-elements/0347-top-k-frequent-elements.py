@@ -5,21 +5,18 @@ class Solution(object):
         :type k: int
         :rtype: List[int]
         """
-        maxes = []
-        elements = {}
+        o = []
+        e = {}
 
         for i in nums:
-            if i in elements:
-                elements[i]+=1
+            if i in e:
+                e[i]+=1
             else:
-                elements[i]=1
-
-        for _ in range(k):
-            m = max(nums, key=elements.get)
-            maxes.append(m)
-            elements.pop(m)
-
-        return maxes 
-
-
+                e[i]=1
         
+        for _ in range(k):
+            f = max(e, key=e.get)
+            o.append(f)
+            e.pop(f)
+        
+        return o
