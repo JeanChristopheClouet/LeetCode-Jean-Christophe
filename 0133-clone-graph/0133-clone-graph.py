@@ -12,16 +12,15 @@ class Solution(object):
         :type node: Node
         :rtype: Node
         """
-        traversed = {}
 
-        def dfs(root):
-            if root in traversed:
-                return traversed[root]
-            else:
-                copy = Node(root.val)
-                traversed[root]=copy
-                for nei in root.neighbors:
-                    copy.neighbors.append(dfs(nei))
-                return copy
-        
+        v = {}
+        def dfs(n):
+            if n in v:
+                return v[n]
+            c = Node(n.val)
+            v[n]=c
+            for nei in n.neighbors:
+                c.neighbors.append(dfs(nei))
+            return c
+
         return dfs(node) if node else None
