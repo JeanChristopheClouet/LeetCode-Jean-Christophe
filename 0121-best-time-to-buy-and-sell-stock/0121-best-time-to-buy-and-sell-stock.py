@@ -4,17 +4,17 @@ class Solution(object):
         :type prices: List[int]
         :rtype: int
         """
-        maximum = 0
+        profits = []
         l = 0
         r = 0
 
         while(r<len(prices)):
             if prices[r]>=prices[l]:
                 profit = prices[r]-prices[l]
-                maximum = max(profit, maximum)
+                profits.append(profit)
                 r+=1
             else:
                 l+=1
         
-        return maximum
+        return max(profits)
         
