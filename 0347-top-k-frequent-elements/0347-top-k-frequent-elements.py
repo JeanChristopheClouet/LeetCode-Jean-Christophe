@@ -5,18 +5,17 @@ class Solution(object):
         :type k: int
         :rtype: List[int]
         """
-        o = []
-        e = {}
-
-        for i in nums:
-            if i in e:
-                e[i]+=1
+        d = {}
+        output = []
+        for num in nums:
+            if num in d:
+                d[num]+=1
             else:
-                e[i]=1
-        
+                d[num]=1
+
         for _ in range(k):
-            f = max(e, key=e.get)
-            o.append(f)
-            e.pop(f)
+            f = max(d, key=d.get)
+            output.append(f)
+            d.pop(f)
         
-        return o
+        return output 
