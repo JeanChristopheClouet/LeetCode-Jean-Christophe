@@ -24,12 +24,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0057-insert-interval](https://github.com/Saputsirk/LeetCode-Jean-Christophe/tree/master/0057-insert-interval) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saputsirk/LeetCode-Jean-Christophe/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/Saputsirk/LeetCode-Jean-Christophe/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Saputsirk/LeetCode-Jean-Christophe/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Saputsirk/LeetCode-Jean-Christophe/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0133-clone-graph](https://github.com/Saputsirk/LeetCode-Jean-Christophe/tree/master/0133-clone-graph) |
+| [0217-contains-duplicate](https://github.com/Saputsirk/LeetCode-Jean-Christophe/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Saputsirk/LeetCode-Jean-Christophe/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Saputsirk/LeetCode-Jean-Christophe/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Saputsirk/LeetCode-Jean-Christophe/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
