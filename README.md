@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Saputsirk/LeetCode-Jean-Christophe/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Saputsirk/LeetCode-Jean-Christophe/tree/master/0033-search-in-rotated-sorted-array) |
 | [0057-insert-interval](https://github.com/Saputsirk/LeetCode-Jean-Christophe/tree/master/0057-insert-interval) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saputsirk/LeetCode-Jean-Christophe/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Saputsirk/LeetCode-Jean-Christophe/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Saputsirk/LeetCode-Jean-Christophe/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0133-clone-graph](https://github.com/Saputsirk/LeetCode-Jean-Christophe/tree/master/0133-clone-graph) |
 | [0217-contains-duplicate](https://github.com/Saputsirk/LeetCode-Jean-Christophe/tree/master/0217-contains-duplicate) |
